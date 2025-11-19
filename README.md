@@ -54,8 +54,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
 Clone the repository
 
-git clone https://github.com/your-username/hospital-management-system.git
-
+git clone https://github.com/yashpawarrr/jpa.git
 
 Open in IntelliJ / Eclipse
 
